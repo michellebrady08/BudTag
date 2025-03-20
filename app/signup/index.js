@@ -28,6 +28,7 @@ const SignUpScreen = ({ navigation }) => {
   }
 };
 
+
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle={styles.scrollContainer}>
